@@ -175,4 +175,4 @@ fabric.properties
 .idea/
 
 # Project config
-config.py
+setup/config.py
