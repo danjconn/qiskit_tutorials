@@ -173,3 +173,6 @@ fabric.properties
 
 # .idea folder
 .idea/
+
+# Project config
+config.py
